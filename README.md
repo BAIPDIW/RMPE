@@ -122,9 +122,9 @@ Please cite the paper in your publications if it helps your research:
 
     @inproceedings{fang2016rmpe,
       title={{RMPE}: Regional Multi-person Pose Estimation},
-      author={Haoshu Fang, Shuqin Xie, Yuwing Tai and Cewu Lu},
-      journal={arXiv preprint arXiv:1612.00137},
-      year={2016}
+      author={Hao-Shu Fang, Shuqin Xie, Yu-Wing Tai and Cewu Lu},
+      booktitle={ICCV},
+      year={2017}
     }
       
 ### Acknowledgements
