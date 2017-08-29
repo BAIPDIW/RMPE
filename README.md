@@ -1,5 +1,5 @@
 # RMPE: Regional Multi-person Pose Estimation
-By [Haoshu Fang](https://fang-haoshu.github.io), Shuqin Xie, Yuwing Tai, [Cewu Lu](https://cvsjtu.wordpress.com/).
+By [Hao-Shu Fang](https://fang-haoshu.github.io), Shuqin Xie, Yu-Wing Tai, [Cewu Lu](https://cvsjtu.wordpress.com/).
 
 ### Introduction
 
@@ -120,7 +120,7 @@ I have written an implementation in Caffe. You can email me for the script.
 ### Citation
 Please cite the paper in your publications if it helps your research:    
 
-    @inproceedings{fang2016rmpe,
+    @inproceedings{fang2017rmpe,
       title={{RMPE}: Regional Multi-person Pose Estimation},
       author={Hao-Shu Fang, Shuqin Xie, Yu-Wing Tai and Cewu Lu},
       booktitle={ICCV},
